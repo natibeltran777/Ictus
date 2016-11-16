@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{26544785-337E-AAAE-BC98-D577297F1D96}") = "Ictus Collision", "Assembly-CSharp.csproj", "{D3225C93-CA06-4CBA-019A-899ABA432CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3225C93-CA06-4CBA-019A-899ABA432CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3225C93-CA06-4CBA-019A-899ABA432CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3225C93-CA06-4CBA-019A-899ABA432CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3225C93-CA06-4CBA-019A-899ABA432CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
